@@ -1,5 +1,5 @@
 # Face Detection using the WeBCAM
-# By Hrithik jerath and Yatin Jindal
+# By Hrithik jerath
 
 import cv2 as cv
 
