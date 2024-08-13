@@ -1,6 +1,6 @@
 ------ELC ACTIVITY ODD SEM 23-24--------
-=======BY: HRITHIK JERATH  And YATIN JINDAL=========
-=======ROLLNO:102383014 AND 102203418===========
+=======BY: HRITHIK JERATH=========
+=======ROLLNO:102383014===========
 
 
 
